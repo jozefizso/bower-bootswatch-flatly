@@ -1,0 +1,19 @@
+{
+  "name": "bower-bootswatch-flatly",
+  "version": "2.3.2",
+  "description": "Flatly theme for Twitter Bootstrap (Bower package)",
+  "main": "less/flatly.less",
+  "keywords": [
+    "bootstrap",
+    "flatly",
+    "less",
+    "css",
+    "bootswatch"
+  ],
+  "author": "Jozef Izso",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-less": "~0.6.1"
+  }
+}
