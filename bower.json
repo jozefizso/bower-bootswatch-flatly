@@ -12,7 +12,7 @@
     "flat",
     "flat ui",
     "theme"
-  ]
+  ],
   "ignore": [
     "**/.*",
     "node_modules",
