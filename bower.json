@@ -2,17 +2,6 @@
   "name": "bower-bootswatch-flatly",
   "version": "2.3.2",
   "main": "less/flatly.less",
-  "keywords": [
-    "flatly",
-    "bootstrap",
-    "twitter bootstrap",
-    "bootswatch",
-    "less",
-    "css",
-    "flat",
-    "flat ui",
-    "theme"
-  ]
   "ignore": [
     "**/.*",
     "node_modules",
