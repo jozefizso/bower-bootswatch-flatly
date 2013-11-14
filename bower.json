@@ -1,7 +1,7 @@
 {
   "name": "bower-bootswatch-flatly",
   "version": "2.3.2",
-  "main": "less/flatly.less",
+  "main": ["less/flatly.less"],
   "keywords": [
     "flatly",
     "bootstrap",
